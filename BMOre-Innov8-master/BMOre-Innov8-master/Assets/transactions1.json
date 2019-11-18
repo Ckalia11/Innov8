@@ -1,0 +1,1731 @@
+{
+    "Data": {
+        "Transaction": [
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "9f4562e4-502b-47ed-a598-a892b85639d2",
+                "StatementReference": [
+                    "XXXX YONGE STR"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-06T04:00:00.000Z",
+                "ValueDateTime": "2018-04-06T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "e2cf5fbf-b7af-4385-bfff-a4568410d722",
+                "StatementReference": [
+                    "NO.XX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-06T04:00:00.000Z",
+                "ValueDateTime": "2018-04-06T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "125",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CK"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "0516cc44-75e1-4f25-8865-b6089efdc025",
+                "StatementReference": [
+                    "TD LOAN PAYMNT  LNS/PRE"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-11T04:00:00.000Z",
+                "ValueDateTime": "2018-04-11T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "490.54",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "217febf6-293c-4f0d-a2b4-2ed94488f3e0",
+                "StatementReference": [
+                    "GALLERIA PHARMA"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-12T04:00:00.000Z",
+                "ValueDateTime": "2018-04-12T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "10.16",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "e31b786f-1e48-4279-91b8-5f03245d3a04",
+                "StatementReference": [
+                    "GALLERIA PHARMA"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-12T04:00:00.000Z",
+                "ValueDateTime": "2018-04-12T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "12.4",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "27bcec4b-553a-4d73-8447-b492424e1078",
+                "StatementReference": [
+                    "SAHMS RED GINSE"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-12T04:00:00.000Z",
+                "ValueDateTime": "2018-04-12T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "22.6",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "79ea2492-51fa-46f2-ac6c-a25702310980",
+                "StatementReference": [
+                    "XXXX HWY X"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-20T04:00:00.000Z",
+                "ValueDateTime": "2018-04-20T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "1000",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "768edec2-098c-49b5-8107-b6242ecdf1f6",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-23T04:00:00.000Z",
+                "ValueDateTime": "2018-04-23T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "1500",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "b95f034e-c9d7-4e1e-bc47-d974f19d7e27",
+                "StatementReference": [
+                    "PLUS PLAN"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-30T04:00:00.000Z",
+                "ValueDateTime": "2018-04-30T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "10.95",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "SC"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "4cb468cc-90c1-4621-93f7-c312b5de5b96",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-30T04:00:00.000Z",
+                "ValueDateTime": "2018-04-30T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "9424c3ac-9c92-458c-835e-03c9a44fae51",
+                "StatementReference": [
+                    "TF XXXXXXXXXXXXXXXXXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-30T04:00:00.000Z",
+                "ValueDateTime": "2018-04-30T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "148.42",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "e7496087-2d0c-4ecb-b38c-7a69ac8d4a9e",
+                "StatementReference": [
+                    "CXXXXXXXINTERAC    XXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-02T04:00:00.000Z",
+                "ValueDateTime": "2018-05-02T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "OM"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "43d30994-085b-43c2-b0c6-3ae30f8158ca",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-08T04:00:00.000Z",
+                "ValueDateTime": "2018-05-08T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "800",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "452b3ed3-d17c-41a1-b5c0-3626e19938b1",
+                "StatementReference": [
+                    "WIKI HAIR SALON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-09T04:00:00.000Z",
+                "ValueDateTime": "2018-05-09T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "86",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "098a2a39-68c8-4425-9658-9237050569a5",
+                "StatementReference": [
+                    "TD LOAN PAYMNT  LNS/PRE"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-11T04:00:00.000Z",
+                "ValueDateTime": "2018-05-11T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "490.54",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "e467d765-8c30-4655-b8b6-8ad13a8b9beb",
+                "StatementReference": [
+                    "PASTEL CREPERIE"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-14T04:00:00.000Z",
+                "ValueDateTime": "2018-05-11T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "23.6",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "3cc60568-ed35-41f5-aaef-943033f07ffc",
+                "StatementReference": [
+                    "XXX SHEPPARD A"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-14T04:00:00.000Z",
+                "ValueDateTime": "2018-05-14T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "df083d41-f4ba-44ce-8372-61aa2026b1f9",
+                "StatementReference": [
+                    "KOGO SUSHI"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-16T04:00:00.000Z",
+                "ValueDateTime": "2018-05-16T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "36.31",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "7d877764-f6c2-40b5-9178-2becc7fae917",
+                "StatementReference": [
+                    "MARTELLA BEAUTY"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-17T04:00:00.000Z",
+                "ValueDateTime": "2018-05-17T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "100",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "f06a8ef9-7a64-4ba9-877c-f659ba001eb5",
+                "StatementReference": [
+                    "XX PROVOST DR."
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-23T04:00:00.000Z",
+                "ValueDateTime": "2018-05-23T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "cd73acbc-9f45-40e7-bb20-bc4bf967ff50",
+                "StatementReference": [
+                    "NO.X"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-24T04:00:00.000Z",
+                "ValueDateTime": "2018-05-24T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "2300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CK"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "101da47b-f0cf-4158-b0f0-75e7e921833a",
+                "StatementReference": [
+                    "NO.X"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-24T04:00:00.000Z",
+                "ValueDateTime": "2018-05-24T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "2300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CK"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "df77ac7e-e7fc-4fb8-ba60-5c0a30c9455f",
+                "StatementReference": [
+                    "NO.X"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-24T04:00:00.000Z",
+                "ValueDateTime": "2018-05-24T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "2300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CK"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "9c5e3441-75fa-45c0-98f2-9a6d690ca5e6",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-25T04:00:00.000Z",
+                "ValueDateTime": "2018-05-25T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "800",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "74e3cfd5-1ad8-43bb-bee0-618215fda337",
+                "StatementReference": [
+                    "PLUS PLAN"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-31T04:00:00.000Z",
+                "ValueDateTime": "2018-05-31T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "10.95",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "SC"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "75a594b4-f443-45c2-bdca-638be402950c",
+                "StatementReference": [
+                    "TF XXXXXXXXXXXXXXXXXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-31T04:00:00.000Z",
+                "ValueDateTime": "2018-05-31T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "326.99",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "e96a7606-d6c6-49ad-9929-ee1117c49265",
+                "StatementReference": [
+                    "DOMINION PREM   INS/ASS"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-04T04:00:00.000Z",
+                "ValueDateTime": "2018-06-04T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "268.56",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "6f6f175b-9390-440a-b639-f6fb3c8a0bcf",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-05T04:00:00.000Z",
+                "ValueDateTime": "2018-06-05T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "800",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "9c77da3f-9837-43a6-810e-dad70f02214f",
+                "StatementReference": [
+                    "XXXX YONGE STR"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-11T04:00:00.000Z",
+                "ValueDateTime": "2018-06-08T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "200",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "d9112e7f-e37f-47e0-b068-207d9d6031b7",
+                "StatementReference": [
+                    "TD LOAN PAYMNT  LNS/PRE"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-11T04:00:00.000Z",
+                "ValueDateTime": "2018-06-11T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "490.54",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "3d4096fc-7d38-4242-84ec-97bb1c4c663f",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-11T04:00:00.000Z",
+                "ValueDateTime": "2018-06-11T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "1100",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "714494aa-c6cf-4d79-9365-faf81932ece0",
+                "StatementReference": [
+                    "MARTELLA BEAUTY"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-15T04:00:00.000Z",
+                "ValueDateTime": "2018-06-15T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "54",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "88eea0c1-d6ce-4ab1-ae17-6c72891aea41",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-19T04:00:00.000Z",
+                "ValueDateTime": "2018-06-19T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "800",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "10371e45-763a-405a-93cc-bcac37f4ab85",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-25T04:00:00.000Z",
+                "ValueDateTime": "2018-06-25T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "d9f11441-ed01-4f33-8a2c-85e42fcfa2bc",
+                "StatementReference": [
+                    "NO.XX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-25T04:00:00.000Z",
+                "ValueDateTime": "2018-06-25T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "2300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CK"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "8882e9d8-5414-44ba-a0fc-abe391f3da30",
+                "StatementReference": [
+                    "MARTELLA BEAUTY"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-28T04:00:00.000Z",
+                "ValueDateTime": "2018-06-28T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "230",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "d6c9841a-5971-47b1-a705-96bc9b6e2e5e",
+                "StatementReference": [
+                    "PLUS PLAN"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-29T04:00:00.000Z",
+                "ValueDateTime": "2018-06-29T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "10.95",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "SC"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "71391ad0-9771-4298-bab5-d6f0054a9e9a",
+                "StatementReference": [
+                    "TF XXXXXXXXXXXXXXXXXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-29T04:00:00.000Z",
+                "ValueDateTime": "2018-06-29T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "621.69",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "0c023ff9-5429-484d-9617-dd0ad709af34",
+                "StatementReference": [
+                    "DOMINION PREM   INS/ASS"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-03T04:00:00.000Z",
+                "ValueDateTime": "2018-07-03T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "268.56",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "01ed66b1-5392-4949-9c24-33a486a037b4",
+                "StatementReference": [
+                    "XXXX ST CLAIR"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-06T04:00:00.000Z",
+                "ValueDateTime": "2018-07-06T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "1600",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "8c2742c3-2cf6-45e4-86ec-0a94d0cbeddf",
+                "StatementReference": [
+                    "TD LOAN PAYMNT  LNS/PRE"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-11T04:00:00.000Z",
+                "ValueDateTime": "2018-07-11T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "490.54",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "f40bf73b-12e0-4427-ba64-326dbf1b3466",
+                "StatementReference": [
+                    "X CLAIR ROAD E"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-17T04:00:00.000Z",
+                "ValueDateTime": "2018-07-17T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "f9c2a841-13eb-4314-b0d8-5b37bb59c948",
+                "StatementReference": [
+                    "X CLAIR ROAD E"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-17T04:00:00.000Z",
+                "ValueDateTime": "2018-07-17T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "69bf104b-f055-4b99-8ec9-578bebfa2fa4",
+                "StatementReference": [
+                    "MARTELLA BEAUTY"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-23T04:00:00.000Z",
+                "ValueDateTime": "2018-07-20T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "100",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "9c4c2c63-ca3d-4210-8af3-00997d303f55",
+                "StatementReference": [
+                    "XXXX YONGE STR"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-23T04:00:00.000Z",
+                "ValueDateTime": "2018-07-23T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "600",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "85af0f9e-428c-4524-af68-a2399182d542",
+                "StatementReference": [
+                    "NO.XX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-24T04:00:00.000Z",
+                "ValueDateTime": "2018-07-24T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "2300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CK"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "f4d9fab2-ea31-4d6d-85c7-94a32f7ed388",
+                "StatementReference": [
+                    "XXXX YONGE STR"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-26T04:00:00.000Z",
+                "ValueDateTime": "2018-07-26T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "d87a2536-5aae-474d-8727-f23eab6c8e54",
+                "StatementReference": [
+                    "TF XXXXXXXXXXXXXXXXXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-26T04:00:00.000Z",
+                "ValueDateTime": "2018-07-26T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "626.36",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "6c43052f-5480-441a-86ce-df70fe2b0a7e",
+                "StatementReference": [
+                    "PLUS PLAN"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-31T04:00:00.000Z",
+                "ValueDateTime": "2018-07-31T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "10.95",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "SC"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "abfc65dc-20e1-4e38-90f3-7dfcfa9f0c47",
+                "StatementReference": [
+                    "BMXXXXXXINTERAC    XXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-02T04:00:00.000Z",
+                "ValueDateTime": "2018-08-02T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "200",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "OM"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "7635bf0c-7adb-45fb-b34f-4634b993f7b6",
+                "StatementReference": [
+                    "DOMINION PREM   INS/ASS"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-03T04:00:00.000Z",
+                "ValueDateTime": "2018-08-03T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "268.56",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "4b7247ab-1847-4106-8234-8205762687ba",
+                "StatementReference": [
+                    "TYRANNUS INTERN"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-03T04:00:00.000Z",
+                "ValueDateTime": "2018-08-03T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "109.45",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "06e32249-c4cf-4e79-a718-6018b237448a",
+                "StatementReference": [
+                    "XXXX YONGE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-07T04:00:00.000Z",
+                "ValueDateTime": "2018-08-07T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "396aa679-2fe3-4e49-bc52-ccaaea7900b3",
+                "StatementReference": [
+                    "TD LOAN PAYMNT  LNS/PRE"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-13T04:00:00.000Z",
+                "ValueDateTime": "2018-08-13T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "490.54",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "ffff70f9-0ab4-4bcd-9d76-1f215c124d89",
+                "StatementReference": [
+                    "XXXX YONGE STR"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-16T04:00:00.000Z",
+                "ValueDateTime": "2018-08-16T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "fd56aca1-a615-45ed-a77b-ffe88f333556",
+                "StatementReference": [
+                    "XX PROVOST DR."
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-20T04:00:00.000Z",
+                "ValueDateTime": "2018-08-20T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "5729a845-c72c-4c18-8638-27cead716349",
+                "StatementReference": [
+                    "NO.XX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-24T04:00:00.000Z",
+                "ValueDateTime": "2018-08-24T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "2300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CK"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "0125f71e-66c2-44f1-b55f-c0169b19c04e",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-29T04:00:00.000Z",
+                "ValueDateTime": "2018-08-29T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "900",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "d39e75b3-5161-49c4-b4d8-920de1cbd8b8",
+                "StatementReference": [
+                    "PLUS PLAN"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-31T04:00:00.000Z",
+                "ValueDateTime": "2018-08-31T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "10.95",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "SC"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "41daedd9-a5fb-4b5f-b948-c0860ec2bdd4",
+                "StatementReference": [
+                    "TF XXXXXXXXXXXXXXXXXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-31T04:00:00.000Z",
+                "ValueDateTime": "2018-08-31T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "738.51",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "4edbba1c-aec8-4676-a9fd-9f3b12f1ba86",
+                "StatementReference": [
+                    "DOMINION PREM   MSP/DIV"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T04:00:00.000Z",
+                "ValueDateTime": "2018-09-04T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "31.54",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "69d2a823-4782-4680-8df2-68f99b978cff",
+                "StatementReference": [
+                    "DOMINION PREM   INS/ASS"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T04:00:00.000Z",
+                "ValueDateTime": "2018-09-04T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "268.56",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "40a66bef-decf-4708-aca3-a0258b9d4d34",
+                "StatementReference": [
+                    "XXXX YONGE STR"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-05T04:00:00.000Z",
+                "ValueDateTime": "2018-09-05T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "80",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "81356be3-c0d9-48c5-b848-2a70a8ebf42c",
+                "StatementReference": [
+                    "XXXX LESLIE ST"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-07T04:00:00.000Z",
+                "ValueDateTime": "2018-09-07T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "800",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "64b4c636-60ea-4b9a-8dad-61aeeb869d00",
+                "StatementReference": [
+                    "CXXXXXXXINTERAC    XXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-07T04:00:00.000Z",
+                "ValueDateTime": "2018-09-07T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "100",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "OM"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "dd4d6fa3-ca41-481a-acec-fb7cede4e70e",
+                "StatementReference": [
+                    "TD LOAN PAYMNT  LNS/PRE"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-11T04:00:00.000Z",
+                "ValueDateTime": "2018-09-11T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "490.54",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "DS"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "95018fa4-b058-46f2-9713-bb6ff2fc5098",
+                "StatementReference": [
+                    "INTERAC E-TRANSFER       RECEIVED                 XXXXXXXXXXXXXXXAX"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-11T04:00:00.000Z",
+                "ValueDateTime": "2018-09-11T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "1000",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "60f57979-dc15-4ae3-93fc-00de77c853e2",
+                "StatementReference": [
+                    "MARTELLA BEAUTY"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-12T04:00:00.000Z",
+                "ValueDateTime": "2018-09-12T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "100",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "3ecfbf93-b86a-4123-b081-dd95bad0b74e",
+                "StatementReference": [
+                    "INTERAC E-TRANSFER       AUTODEPOSIT RECEIVED     XXXXXXXXXXXNPHQRJ"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-24T04:00:00.000Z",
+                "ValueDateTime": "2018-09-21T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "1500",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "f554dacb-2bf3-40db-a8df-ce6709b60e90",
+                "StatementReference": [
+                    "NO.XX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-24T04:00:00.000Z",
+                "ValueDateTime": "2018-09-24T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "2300",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CK"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "3caf0459-77b3-4f0a-9133-313c5ef4f98f",
+                "StatementReference": [
+                    "PLUS PLAN"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-28T04:00:00.000Z",
+                "ValueDateTime": "2018-09-28T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "10.95",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "SC"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "760d13ff-6107-4900-9fce-a744d1c5937d",
+                "StatementReference": [
+                    "XXXX YONGE STR"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-10-01T04:00:00.000Z",
+                "ValueDateTime": "2018-09-28T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "80",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "IB"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "a33bb3f9-b74d-49ff-b588-896f92f48e12",
+                "StatementReference": [
+                    "INTERAC E-TRANSFER       AUTODEPOSIT RECEIVED     XXXXXXXXXXXYMRZTR"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-10-01T04:00:00.000Z",
+                "ValueDateTime": "2018-09-28T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "1200",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "b14b2c16-862d-4aba-b4a2-0345431076e7",
+                "StatementReference": [
+                    "TF XXXXXXXXXXXXXXXXXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-10-01T04:00:00.000Z",
+                "ValueDateTime": "2018-09-28T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "700",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "CW"
+                        }
+                    ]
+                }
+            },
+            {
+                "AccountId": "fcceb0f286220f546251728ec44fb502",
+                "TransactionId": "9dc9e211-e27c-479b-a182-e81670a16890",
+                "StatementReference": [
+                    "NORTH HILL MEAT"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-10-01T04:00:00.000Z",
+                "ValueDateTime": "2018-09-28T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "121.99",
+                    "Currency": "CAD"
+                },
+                "SupplementaryData": {
+                    "AdditionalData": [
+                        {
+                            "KEY": "EXTDTRNTYPE",
+                            "VALUE": "PR"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

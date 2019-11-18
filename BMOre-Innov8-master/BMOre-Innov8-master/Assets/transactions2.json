@@ -1,0 +1,1601 @@
+{
+    "Data": {
+        "Transaction": [
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "bc491685-afb7-4eee-ae53-f93b80804cba",
+                "TransactionReference": "-1847920621657875136",
+                "StatementReference": [
+                    "SHOPPERS DRUG MART #XX NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-14T01:29:35.900Z",
+                "ValueDateTime": "2018-08-10T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "53.09",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "SHOPPERS DRUG MART #08",
+                        "catCode": "5912"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "dca3321c-807e-4abf-9b52-7afefa86a8e1",
+                "TransactionReference": "8288048587924946603",
+                "StatementReference": [
+                    "THE ALLEY TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-14T01:29:36.900Z",
+                "ValueDateTime": "2018-08-10T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "13.56",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "THE ALLEY",
+                        "catCode": "5814"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "ba598154-01cb-4a5a-bc0e-a04660d39ae2",
+                "TransactionReference": "3344326081969407535",
+                "StatementReference": [
+                    "WILLOWDALE CONVENIENCE NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-16T00:55:44.400Z",
+                "ValueDateTime": "2018-08-14T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "18.03",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "WILLOWDALE CONVENIENCE",
+                        "catCode": "5331"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "f924db4f-34e5-4bfb-9843-49da89167e35",
+                "TransactionReference": "6700032174012562959",
+                "StatementReference": [
+                    "CANADA COMPUTERS #X TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-21T02:22:24.400Z",
+                "ValueDateTime": "2018-08-19T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "337.87",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "CANADA COMPUTERS #9",
+                        "catCode": "5734"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "bb6e58bf-f821-40c5-bedc-c4ce5b680a87",
+                "TransactionReference": "643884062329783872",
+                "StatementReference": [
+                    "KONJIKI RAMEN X SARYO NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-23T00:56:40.000Z",
+                "ValueDateTime": "2018-08-21T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "41.58",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "KONJIKI RAMEN X SARYO",
+                        "catCode": "5812"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "0f413cbf-86b5-4f98-ab14-995ee8746ddd",
+                "TransactionReference": "-454689994315689894",
+                "StatementReference": [
+                    "H-MART NORTH YORK X TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-24T00:59:28.700Z",
+                "ValueDateTime": "2018-08-21T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "7.1",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "H-MART NORTH YORK 2",
+                        "catCode": "5411"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "f0d31d83-27cb-4cbf-9dd0-99a8fb359b0a",
+                "TransactionReference": "-454689994314689900",
+                "StatementReference": [
+                    "H-MART NORTH YORK X TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-24T00:59:29.700Z",
+                "ValueDateTime": "2018-08-21T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "24.28",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "H-MART NORTH YORK 2",
+                        "catCode": "5411"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "75c6cf3d-6f58-41d0-bbe7-e768a8fd3add",
+                "TransactionReference": "-5465397628415433538",
+                "StatementReference": [
+                    "COSTCO WHOLESALE WXXX MARKHAM ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-01T01:02:58.800Z",
+                "ValueDateTime": "2018-08-30T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "272.05",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "MARKHAM",
+                        "DBAName": "COSTCO WHOLESALE W151",
+                        "catCode": "5300"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "72b39115-17df-422b-b503-bbdda8c02cbb",
+                "TransactionReference": "5927945531714250105",
+                "StatementReference": [
+                    "MUJI YORKDALE NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T01:11:34.400Z",
+                "ValueDateTime": "2018-09-01T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "38.14",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "MUJI YORKDALE",
+                        "catCode": "5311"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "4d2c639d-351d-4a27-8743-c5e671c4ec5b",
+                "TransactionReference": "4993846729460126525",
+                "StatementReference": [
+                    "VICTORIA'S SECRET STOR NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T01:11:35.400Z",
+                "ValueDateTime": "2018-09-01T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "129.95",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "VICTORIA'S SECRET STOR",
+                        "catCode": "5621"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "d973ffda-ce2c-4405-9117-ebd936ed3a53",
+                "TransactionReference": "-7521868220858730779",
+                "StatementReference": [
+                    "BX #XX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T01:11:36.400Z",
+                "ValueDateTime": "2018-09-01T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "124.3",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "B2 #22",
+                        "catCode": "5661"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "35f9b465-3346-4c2a-af60-ad68a2a48930",
+                "TransactionReference": "6922661327125666773",
+                "StatementReference": [
+                    "SPORTING LIFE INC NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T01:11:37.400Z",
+                "ValueDateTime": "2018-09-01T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "101.7",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "SPORTING LIFE INC",
+                        "catCode": "5941"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "dcc72bfd-a993-46a4-92c1-7bfa11647f79",
+                "TransactionReference": "7922678327133666733",
+                "StatementReference": [
+                    "SPORTING LIFE INC NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T01:11:38.400Z",
+                "ValueDateTime": "2018-09-01T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "183.63",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "SPORTING LIFE INC",
+                        "catCode": "5941"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "bd81f0a7-893f-4818-ac3d-766dffc9ef41",
+                "TransactionReference": "7165605986909948180",
+                "StatementReference": [
+                    "EB GAMES XXX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T01:11:39.400Z",
+                "ValueDateTime": "2018-09-01T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "67.78",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "EB GAMES 828",
+                        "catCode": "5945"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "7d700be7-17cd-4b8c-be23-fcbc455078e2",
+                "TransactionReference": "-8346456851810210138",
+                "StatementReference": [
+                    "UNIQLO YORKDALE #XXXX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T01:11:40.400Z",
+                "ValueDateTime": "2018-09-01T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "78.87",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "UNIQLO YORKDALE #2001",
+                        "catCode": "5651"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "072b4d6b-c873-4e76-901e-1df53a3ab001",
+                "TransactionReference": "6426242952415786106",
+                "StatementReference": [
+                    "FOOT LOCKER #XXXXX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-04T01:11:41.400Z",
+                "ValueDateTime": "2018-09-01T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "72.04",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "FOOT LOCKER #99067",
+                        "catCode": "5661"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "67d39359-6424-4865-8d2f-ee6fa6fd7bca",
+                "TransactionReference": "5690881681355984616",
+                "StatementReference": [
+                    "TRSF FROM/DE ACCT/CPT XXXX-XXXX-XXX"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-05T00:58:29.100Z",
+                "ValueDateTime": "2018-08-31T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "738.51",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "0108"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "2926-XXXX-261",
+                        "DBAName": "TRSF FROM/DE ACCT/CPT",
+                        "catCode": "6010"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "dfeb80a4-8445-4c31-b5f6-4658a6fe4b15",
+                "TransactionReference": "4728361886579040915",
+                "StatementReference": [
+                    "eShopWorld XXXXXXXXXXX"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-09-05T00:58:30.100Z",
+                "ValueDateTime": "2018-09-03T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "145.6",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "35318809114",
+                        "DBAName": "eShopWorld",
+                        "catCode": "5941"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "c7000432-ba3d-4f55-b801-308ac8fa2ea4",
+                "TransactionReference": "-1389846861695181714",
+                "StatementReference": [
+                    "THE FACE SHOP #XXX WILLOWDALE ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-24T01:38:22.300Z",
+                "ValueDateTime": "2018-07-21T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "95.03",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "WILLOWDALE",
+                        "DBAName": "THE FACE SHOP #333",
+                        "catCode": "5977"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "4142f6c5-7721-4fba-a7ee-3a998ca0f47f",
+                "TransactionReference": "4201233181978193224",
+                "StatementReference": [
+                    "CINEPLEX XXXX QPS TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-24T01:38:23.300Z",
+                "ValueDateTime": "2018-07-21T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "40.5",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "CINEPLEX 7115 QPS",
+                        "catCode": "7832"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "2572059e-e2b9-4d1a-8c9d-74712e5e1beb",
+                "TransactionReference": "7833479829792182848",
+                "StatementReference": [
+                    "TRSF FROM/DE ACCT/CPT XXXX-XXXX-XXX"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-28T01:21:04.700Z",
+                "ValueDateTime": "2018-07-26T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "626.36",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "0108"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "2926-XXXX-261",
+                        "DBAName": "TRSF FROM/DE ACCT/CPT",
+                        "catCode": "6010"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "cd8f0c90-0a84-4d24-8b6d-6d8e2dde5f7b",
+                "TransactionReference": "-3316229509284985239",
+                "StatementReference": [
+                    "LA MAISON SIMONS INC(Q QUEBEC QC"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-31T01:28:49.500Z",
+                "ValueDateTime": "2018-07-28T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "83.92",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "QUEBEC",
+                        "DBAName": "LA MAISON SIMONS INC(Q",
+                        "catCode": "5621"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "3307e9e4-3cfc-4b85-a827-02d42429c99f",
+                "TransactionReference": "-7209811762698370686",
+                "StatementReference": [
+                    "BAGAGES DE FRANCE INC QUEBEC QC"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-31T01:28:50.500Z",
+                "ValueDateTime": "2018-07-29T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "367.92",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "QUEBEC",
+                        "DBAName": "BAGAGES DE FRANCE INC",
+                        "catCode": "5631"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "d08f58b5-37eb-4465-92f8-f09bd6cb2f4e",
+                "TransactionReference": "724824249124885625",
+                "StatementReference": [
+                    "BOUTIQUE BRIN DE FOLIE QUEBEC QC"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-31T01:28:51.500Z",
+                "ValueDateTime": "2018-07-29T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "91.7",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "QUEBEC",
+                        "DBAName": "BOUTIQUE BRIN DE FOLIE",
+                        "catCode": "5947"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "4aae0dba-59d5-4ef2-ae2b-ab2406dd21f1",
+                "TransactionReference": "-4216811695992796802",
+                "StatementReference": [
+                    "ARITZIA TEC XXXX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-07T01:19:25.800Z",
+                "ValueDateTime": "2018-08-04T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "45.19",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "ARITZIA TEC 1304",
+                        "catCode": "5621"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "fb7e57d4-518e-4bc8-8803-1a26201372ce",
+                "TransactionReference": "2829666685918106231",
+                "StatementReference": [
+                    "UNIQLO EATON CENTRE #X TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-07T01:19:26.800Z",
+                "ValueDateTime": "2018-08-04T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "84.41",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "UNIQLO EATON CENTRE #2",
+                        "catCode": "5651"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "7b2fa9ae-ae0f-49cc-b398-c7844ed5a5d2",
+                "TransactionReference": "2021990169868427175",
+                "StatementReference": [
+                    "LOFT #XXXX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-08-07T01:19:27.800Z",
+                "ValueDateTime": "2018-08-04T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "65.37",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "LOFT #4102",
+                        "catCode": "5944"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "f6192690-b0d5-41b0-b116-30750be3c8f9",
+                "TransactionReference": "4238341540406352471",
+                "StatementReference": [
+                    "PASTEL CREPERIE & DESS NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-13T01:07:58.100Z",
+                "ValueDateTime": "2018-06-09T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "28.57",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "PASTEL CREPERIE & DESS",
+                        "catCode": "5812"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "f6f772d1-a0d4-4faf-9718-67fbfe1c795e",
+                "TransactionReference": "3622611851110677058",
+                "StatementReference": [
+                    "GONG CHA NORTH YORK NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-13T01:07:59.100Z",
+                "ValueDateTime": "2018-06-09T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "13.79",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "GONG CHA NORTH YORK",
+                        "catCode": "5814"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "843ac1a7-247b-4403-af36-495822081f14",
+                "TransactionReference": "1758814733962109234",
+                "StatementReference": [
+                    "MCDONALD'S #XXXXX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-19T01:58:45.100Z",
+                "ValueDateTime": "2018-06-16T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "20.77",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "MCDONALD'S #40346",
+                        "catCode": "5814"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "883f92ee-eaaf-4cb2-9189-a0dbaa624532",
+                "TransactionReference": "6485692294656296839",
+                "StatementReference": [
+                    "JAYSHOP@EATON CTR TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-19T01:58:46.100Z",
+                "ValueDateTime": "2018-06-16T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "96.04",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "JAYSHOP@EATON CTR",
+                        "catCode": "5947"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "7ae13687-814c-48fe-9eb7-6ec93987810f",
+                "TransactionReference": "4267843537257206719",
+                "StatementReference": [
+                    "UNIQLO EATON CENTRE #X TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-19T01:58:47.100Z",
+                "ValueDateTime": "2018-06-16T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "78.65",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "UNIQLO EATON CENTRE #2",
+                        "catCode": "5651"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "7e50ba62-577d-44f1-99dd-ec74c1dc4e60",
+                "TransactionReference": "-7824815962306223582",
+                "StatementReference": [
+                    "MINISO CANADA TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-19T01:58:48.100Z",
+                "ValueDateTime": "2018-06-16T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "72.83",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "MINISO CANADA",
+                        "catCode": "5947"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "eb9b55d8-79c8-4835-95b3-da1c3521ffd1",
+                "TransactionReference": "-7611471737977891764",
+                "StatementReference": [
+                    "CONGEE WONG TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-23T01:15:42.400Z",
+                "ValueDateTime": "2018-06-19T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "63.51",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "CONGEE WONG",
+                        "catCode": "5812"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "fd240235-514b-4271-846a-43c033cb2303",
+                "TransactionReference": "-8069602693090114715",
+                "StatementReference": [
+                    "PANDORA-FAIRVIEW MALL NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-26T02:17:26.900Z",
+                "ValueDateTime": "2018-06-24T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "141.25",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "PANDORA-FAIRVIEW MALL",
+                        "catCode": "5094"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "52013e4f-4585-48ed-a5fe-6f92588d8b56",
+                "TransactionReference": "-6490026250921677796",
+                "StatementReference": [
+                    "THE FACE SHOP #XXX WILLOWDALE ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-26T02:17:27.900Z",
+                "ValueDateTime": "2018-06-24T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "71.19",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "WILLOWDALE",
+                        "DBAName": "THE FACE SHOP #333",
+                        "catCode": "5977"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "279b8f8b-4514-41ee-9326-9317d816116b",
+                "TransactionReference": "803345793499203944",
+                "StatementReference": [
+                    "PIZZA NOVA XXX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-30T02:27:10.000Z",
+                "ValueDateTime": "2018-06-28T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "9.47",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "PIZZA NOVA 040",
+                        "catCode": "5814"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "6ab38beb-c994-4b3b-8237-b3d3e1b38562",
+                "TransactionReference": "-364464577521135701",
+                "StatementReference": [
+                    "THE FACE SHOP #XXX WILLOWDALE ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-03T01:23:11.600Z",
+                "ValueDateTime": "2018-06-30T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "212.42",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "WILLOWDALE",
+                        "DBAName": "THE FACE SHOP #333",
+                        "catCode": "5977"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "91b88d12-3604-478d-a6dc-1da26f840e41",
+                "TransactionReference": "-4766929247232290565",
+                "StatementReference": [
+                    "PANDORA-FAIRVIEW MALL NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-03T01:23:12.600Z",
+                "ValueDateTime": "2018-06-30T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "214.7",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "PANDORA-FAIRVIEW MALL",
+                        "catCode": "5094"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "f1e641f8-24be-475e-9e54-0f41dc983e6c",
+                "TransactionReference": "-7413442651690315574",
+                "StatementReference": [
+                    "TRSF FROM/DE ACCT/CPT XXXX-XXXX-XXX"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-04T01:23:17.200Z",
+                "ValueDateTime": "2018-06-29T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "621.69",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "0108"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "2926-XXXX-261",
+                        "DBAName": "TRSF FROM/DE ACCT/CPT",
+                        "catCode": "6010"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "37d896f8-6f30-431c-8a62-ed82f424f8dc",
+                "TransactionReference": "8650234062190109078",
+                "StatementReference": [
+                    "RED BRICK CAFE GUELPH ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-06T01:59:55.800Z",
+                "ValueDateTime": "2018-07-04T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "20.36",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "GUELPH",
+                        "DBAName": "RED BRICK CAFE",
+                        "catCode": "5814"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "8bb2ab8f-54f4-4af5-b021-6e4cc933a44b",
+                "TransactionReference": "6887918107635836459",
+                "StatementReference": [
+                    "THE DRAGON GUELPH ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-07-06T01:59:56.800Z",
+                "ValueDateTime": "2018-07-04T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "33.88",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "GUELPH",
+                        "DBAName": "THE DRAGON",
+                        "catCode": "5942"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "aae9123a-5fd4-454a-a1d6-27aec008a586",
+                "TransactionReference": "-1215820288014837600",
+                "StatementReference": [
+                    "H-MART NORTH YORK X TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-17T00:57:34.200Z",
+                "ValueDateTime": "2018-05-14T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "64.36",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "H-MART NORTH YORK 2",
+                        "catCode": "5411"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "d632eadc-3e5d-4d0d-9b5d-d0a84b525ea5",
+                "TransactionReference": "8100378176823120008",
+                "StatementReference": [
+                    "H-MART NORTH YORK NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-17T00:57:35.200Z",
+                "ValueDateTime": "2018-05-14T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "34.99",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "H-MART NORTH YORK",
+                        "catCode": "5411"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "b3970941-4242-4d63-aa7f-9ef101323958",
+                "TransactionReference": "-1928811906225055386",
+                "StatementReference": [
+                    "SHOPPERSDRUGMARTXXXX NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-29T01:22:17.900Z",
+                "ValueDateTime": "2018-05-25T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "26.88",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "SHOPPERSDRUGMART0917",
+                        "catCode": "5912"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "0b082d93-9eca-497f-82b7-1c9080053a28",
+                "TransactionReference": "1727260859472639286",
+                "StatementReference": [
+                    "TRSF FROM/DE ACCT/CPT XXXX-XXXX-XXX"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-01T01:10:43.000Z",
+                "ValueDateTime": "2018-05-31T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "326.99",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "0108"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "2926-XXXX-261",
+                        "DBAName": "TRSF FROM/DE ACCT/CPT",
+                        "catCode": "6010"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "d1b4cb91-a517-4bad-a2a0-fa2ff616de5e",
+                "TransactionReference": "8845625513929001180",
+                "StatementReference": [
+                    "H-MART FINCH NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-05T01:54:31.300Z",
+                "ValueDateTime": "2018-06-02T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "22.43",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "H-MART FINCH",
+                        "catCode": "5411"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "63bc8838-4ef6-44b8-ae45-42fa076b2dc3",
+                "TransactionReference": "-8554390265583121296",
+                "StatementReference": [
+                    "GONG CHA NORTH YORK NORTH YORK ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-06-05T01:54:32.300Z",
+                "ValueDateTime": "2018-06-02T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "12.66",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "NORTH YORK",
+                        "DBAName": "GONG CHA NORTH YORK",
+                        "catCode": "5814"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "8ad1d375-9824-4e57-86b5-7fd7547f1d54",
+                "TransactionReference": "2471652846318987028",
+                "StatementReference": [
+                    "GALLERIA SUPERMARKET THORNHILL ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-04-14T01:04:27.100Z",
+                "ValueDateTime": "2018-04-12T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "87.77",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "THORNHILL",
+                        "DBAName": "GALLERIA SUPERMARKET",
+                        "catCode": "5411"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "f580bf64-f540-47b7-bf43-d76c202a71d6",
+                "TransactionReference": "-6478093651764354909",
+                "StatementReference": [
+                    "TRSF FROM/DE ACCT/CPT XXXX-XXXX-XXX"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-02T00:58:23.000Z",
+                "ValueDateTime": "2018-04-30T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "148.42",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "0108"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "2926-XXXX-261",
+                        "DBAName": "TRSF FROM/DE ACCT/CPT",
+                        "catCode": "6010"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "3b0ca388-5862-4b7c-9e08-0c27e81a1619",
+                "TransactionReference": "-6278662025732311021",
+                "StatementReference": [
+                    "JOURNEYS XXXXXX TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-05-08T01:43:22.600Z",
+                "ValueDateTime": "2018-05-05T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "112.99",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "JOURNEYS 835003",
+                        "catCode": "5661"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "6b0d081e-f756-4a76-96aa-73d3f4cfac86",
+                "TransactionReference": "-5599421455463824433",
+                "StatementReference": [
+                    "UBER LVIQX HELP.UBER.C help.uber.comNLD"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-03-15T01:07:36.100Z",
+                "ValueDateTime": "2018-03-14T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "42.42",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "help.uber.com",
+                        "DBAName": "UBER LVIQ3 HELP.UBER.C",
+                        "catCode": "4121"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "c96c2dab-dac9-4c75-a917-3a4f127f79f7",
+                "TransactionReference": "3011042800519995573",
+                "StatementReference": [
+                    "UBER LVIQX HELP.UBER.C help.uber.comNLD"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-03-15T01:07:37.100Z",
+                "ValueDateTime": "2018-03-14T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "6.34",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "help.uber.com",
+                        "DBAName": "UBER LVIQ3 HELP.UBER.C",
+                        "catCode": "4121"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "a91c4b97-d11b-4d32-8c12-044d8a9bafc6",
+                "TransactionReference": "-3839783358789406429",
+                "StatementReference": [
+                    "H-MART NORTH YORK X TORONTO ON"
+                ],
+                "CreditDebitIndicator": "Debit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-03-29T01:00:48.500Z",
+                "ValueDateTime": "2018-03-26T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "99.66",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "3001"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "TORONTO",
+                        "DBAName": "H-MART NORTH YORK 2",
+                        "catCode": "5411"
+                    }
+                }
+            },
+            {
+                "AccountId": "b3e86b8fb7cc63e37b312bf896674905",
+                "TransactionId": "a0b23ba1-5ff1-4628-a19e-a88b9c33b6c9",
+                "TransactionReference": "-6234462315159835331",
+                "StatementReference": [
+                    "TRSF FROM/DE ACCT/CPT XXXX-XXXX-XXX"
+                ],
+                "CreditDebitIndicator": "Credit",
+                "Status": "Booked",
+                "BookingDateTime": "2018-03-30T01:05:17.200Z",
+                "ValueDateTime": "2018-03-29T04:00:00.000Z",
+                "Amount": {
+                    "Amount": "290.97",
+                    "Currency": "CAD"
+                },
+                "ProprietaryBankTransactionCode": {
+                    "Code": "0108"
+                },
+                "CardInstrument": {
+                    "CardSchemeName": "MasterCard"
+                },
+                "SupplementaryData": {
+                    "merchantInfo": {
+                        "DBACity": "2926-XXXX-261",
+                        "DBAName": "TRSF FROM/DE ACCT/CPT",
+                        "catCode": "6010"
+                    }
+                }
+            }
+        ]
+    }
+}
